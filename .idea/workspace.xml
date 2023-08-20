@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75b13e2b-9539-4fb0-8624-e2b88452b67e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3Examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Bottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/BuilderPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ChickenBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Coke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ColdDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/MealBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Packing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Pepsi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/VegBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ifElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ifstatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEgitim" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEgitim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/Week-02-Examples.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/src/Algorithm03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/src/Algorithm04Asal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/src/Algoritm01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/src/Algoritm02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/src/ArithmeticOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/src/AssignmentOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/src/IfStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/src/LogicalOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/src/RelationalOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/src/SingleOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/src/TypeCasting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-02-Examples/src/VariableExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-03-Examples/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-03-Examples/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-03-Examples/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-03-Examples/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-03-Examples/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-03-Examples/Week-03-Examples.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-03-Examples/src/BreakExample01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-03-Examples/src/IfStatement01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-03-Examples/src/LogicalError01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-03-Examples/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-03-Examples/src/RunTimeError01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-03-Examples/src/StringEqualsExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-03-Examples/src/StringExamples01.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RZDoZjICMWj6KpAp3NlQclrOmp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75b13e2b-9539-4fb0-8624-e2b88452b67e" name="Changes" comment="" />
+      <created>1687448889554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687448889554</updated>
+    </task>
+    <servers />
+  </component>
+</project>
