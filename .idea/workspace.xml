@@ -5,28 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75b13e2b-9539-4fb0-8624-e2b88452b67e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week3Examples.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Bottle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/BuilderPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ChickenBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Coke.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ColdDrink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Meal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/MealBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Packing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Pepsi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/VegBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Wrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ifElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ifstatement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaEgitim" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEgitim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week-02-Examples/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week-02-Examples/.idea/.gitignore" beforeDir="false" />
