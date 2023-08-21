@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75b13e2b-9539-4fb0-8624-e2b88452b67e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns01/SmartTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns01/SmartTvState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns01/SmartTvSwitchOffState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns01/SmartTvSwitchOnState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns01/StateDesignPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaEgitim" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEgitim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week-02-Examples/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week-02-Examples/.idea/.gitignore" beforeDir="false" />
